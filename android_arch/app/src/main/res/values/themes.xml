@@ -1,0 +1,10 @@
+<resources>
+    <!-- App 基础无标题纯白极简高光主题 (与 Ins 纯白设计 100% 统一) -->
+    <style name="Theme.FutureKorean" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowBackground">#F7F8FA</item>
+    </style>
+</resources>
