@@ -44,7 +44,7 @@
 
 ## 🚀 安装包下载 (Releases)
 
-编译就绪的最新 APK 安装包可在本仓库的 **[Releases](../../releases)** 页面直接下载体验。
+编译就绪的最新 APK 安装包可在本仓库的 **[Releases](https://github.com/uminrae/Yonsei-Korean-Learner/releases/latest)** 页面直接下载体验。
 
 ---
 
@@ -52,7 +52,7 @@
 
 1. 克隆本仓库：
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/uminrae/Yonsei-Korean-Learner.git
    ```
 2. 使用 Android Studio 打开 `android_arch` 目录。
 3. 等待 Gradle 同步完成，连接 Android 设备或模拟器后点击 **Run** 即可启动。
